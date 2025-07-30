@@ -1,6 +1,6 @@
 # 📊 Pokémon Exploratory Data Analysis (EDA)
 
-<img width="1156" height="654" alt="image" src="https://github.com/user-attachments/assets/12a5492f-b431-427e-a410-a0695da8ecc2" />
+<img width="1560" height="480" alt="image" src="https://github.com/user-attachments/assets/6302555e-d536-49d8-a091-4dd9bcf27312" />
 
 ## 📌 Overview
 This project performs an **exploratory data analysis (EDA)** on a Pokémon dataset containing detailed information about various species, including their **types**, **base stats**, **legendary status**, and **generation**.  
